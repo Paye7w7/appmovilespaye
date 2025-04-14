@@ -1,0 +1,10 @@
+export 'package:myapp/screens/alert.dart';
+export 'package:myapp/screens/card.dart';
+export 'package:myapp/screens/home_screen.dart';
+export 'package:myapp/screens/listview1.dart';
+export 'package:myapp/screens/listview2.dart';
+export 'package:myapp/screens/animalito.dart';
+export 'package:myapp/screens/juegos.dart';
+export 'package:myapp/screens/ropas.dart';
+export 'package:myapp/screens/materiales.dart';
+export 'package:myapp/screens/materiar.dart';
